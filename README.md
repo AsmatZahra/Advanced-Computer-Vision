@@ -33,5 +33,7 @@ To Reproduce the results please change the file paths according to your director
 
 
 [1]  https://github.com/hlamba28/UNET-TGS
+
 [2]  https://monuseg.grand-challenge.org/Data/
+
 [3]  https://drive.google.com/file/d/1NKkSQ5T0ZNQ8aUhh0a8Dt2YKYCQXIViw/view
