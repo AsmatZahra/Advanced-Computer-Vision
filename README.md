@@ -4,8 +4,7 @@ Repository contains ACV projects of Semantic Segmentation
 # Background Knowledge:
   Def: 
       "Semantic Segmentation is about recognizing, understanding what is in the image at pixel level"
-      
-      ![](Images/Segmentation%20Sample.png)
+                            ![](Images/Segmentation%20Sample.png)
 # Why
   * To learn about the semantic segmentation pipeline
   * Implementation of semantic segmentation pipeline on a real world dataset
