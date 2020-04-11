@@ -1,13 +1,13 @@
 # Unet-with-Monuseg-dataset
 An implementation of [Unet](https://arxiv.org/pdf/1505.04597.pdf) with Monuseg [dataset](https://monuseg.grand-challenge.org/Data/)
 
-# Network Architecture:
-  ![](Images/UNetArchitecture.png)
+# Network Architecture
+  ![](/Images/UNetArchitecture.png)
 
-# Trained Model:
+# Trained Model
   Available in [repository](U-Net/)
   
-# Results:
+# Results
 
 |Datasets|Accuracy|Loss|MSE|Precision|
 |--------|--------|--------|--------|--------|
@@ -15,19 +15,20 @@ An implementation of [Unet](https://arxiv.org/pdf/1505.04597.pdf) with Monuseg [
 |Validate|0.90|0.22|0.07|Nil|
 |Test|0.83|Nil|Nil|0.90|
  
-# Graphs
- ![](UNetGraphs.png)
+## Graphs
+ ![](/Images/UNetGraphs.png)
 
-# Qualitative Results
+## Qualitative Results
+### Results on Train-set
 
+![](/Images/U-Net%20train%20qualitative%20results.png)
 
+### Results on Validation-set
 
-To Reproduce the results please change the file paths according to your directory setup (Part.1 in "UNet with MonuSeg dataset.ipynb")
+![](/Images/U-Net%20validation%20qualitative%20results.png)
 
+### Results on Test-set
 
+![](/Images/U-Net%20test%20qualitative%20results.png)
 
-[1]  https://github.com/hlamba28/UNET-TGS
-
-[2]  https://monuseg.grand-challenge.org/Data/
-
-[3]  https://drive.google.com/file/d/1NKkSQ5T0ZNQ8aUhh0a8Dt2YKYCQXIViw/view
+To Reproduce the results please change the file paths according to your directory setup and directly run from your druve in Google colaboratory
